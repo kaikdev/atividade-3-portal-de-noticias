@@ -1,0 +1,29 @@
+* {
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    box-sizing: border-box;
+}
+
+ul, li, a {
+    margin: 0px;
+    padding: 0px;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    margin: 0px;
+    padding: 1rem;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+header h1,
+footer p {
+    text-align: center;
+}
